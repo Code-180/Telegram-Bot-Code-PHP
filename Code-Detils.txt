@@ -1,0 +1,12 @@
+//+++++++++++++++++++++++++++++++++++++++
+//Webhook URL List 
+//+++++++++++++++++++++++++++++++++++++++
+1. https://api.telegram.org/bot<Your-token>/getUpdates
+2. https://api.telegram.org/bot<Your-token>/setWebhook?url=https://www.yourdomain.com/telegram-message-webhook
+3. https://api.telegram.org/bot<Your-token>/getWebhookInfo
+4. https://api.telegram.org/bot<Your-token>/deleteWebhook
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+URL For The Package: https://github.com/westacks/telebot
+Document URL: https://core.telegram.org/bots/api#sendphoto
+Bot API Library Examples :https://core.telegram.org/bots/samples
+
